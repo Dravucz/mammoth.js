@@ -1,5 +1,5 @@
 {
-  "name": "mammoth",
+  "name": "mammoth-line-breaks",
   "version": "1.4.13",
   "author": "Michael Williamson <mike@zwobble.org>",
   "description": "Convert Word documents from docx to simple HTML and Markdown",
