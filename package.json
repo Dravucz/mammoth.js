@@ -1,5 +1,5 @@
 {
-  "name": "mammoth",
+  "name": "mammoth-line-breaks",
   "version": "1.4.13",
   "author": "Michael Williamson <mike@zwobble.org>",
   "description": "Convert Word documents from docx to simple HTML and Markdown",
@@ -41,7 +41,7 @@
     "./lib/docx/files.js": "./browser/docx/files.js"
   },
   "bin": {
-    "mammoth": "bin/mammoth"
+    "mammoth-line-breaks": "bin/mammoth"
   },
   "scripts": {
     "pretest": "eslint lib test",
